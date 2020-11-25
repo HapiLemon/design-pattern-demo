@@ -1,7 +1,7 @@
-package org.example.prototype;
+package org.example.prototype.runoob;
 
-import org.example.prototype.dto.SharpCache;
-import org.example.prototype.sharp.Sharp;
+import org.example.prototype.runoob.runoob.dto.SharpCache;
+import org.example.prototype.runoob.runoob.sharp.Sharp;
 
 public class PrototypeTest {
     public static void main(String[] args) {

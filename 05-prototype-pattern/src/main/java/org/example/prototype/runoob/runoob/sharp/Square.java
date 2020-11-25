@@ -1,4 +1,4 @@
-package org.example.prototype.sharp;
+package org.example.prototype.runoob.runoob.sharp;
 
 public class Square extends Sharp {
     @Override
