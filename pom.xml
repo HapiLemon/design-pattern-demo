@@ -14,7 +14,15 @@
         <module>03-factory-method-pattern</module>
         <module>04-abstract-factory-pattern</module>
         <module>05-prototype-pattern</module>
+        <module>06-builder-pattern</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.12</version>
+        </dependency>
+    </dependencies>
 
 </project>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>org.example.builder.simplify.builder.DevilBuilder</className>
+</config>
