@@ -16,6 +16,7 @@
         <module>05-prototype-pattern</module>
         <module>06-builder-pattern</module>
         <module>07-adapter-pattern</module>
+        <module>08-bridge-pattern</module>
     </modules>
 
     <dependencies>

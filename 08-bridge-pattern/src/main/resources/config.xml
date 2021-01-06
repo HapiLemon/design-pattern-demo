@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>org.example.pattern.bridge.book.images.abstraction.JPGImage</className>
+    <!--ConcreteImplementor-->
+    <className>org.example.pattern.bridge.book.images.Implementor.WindowsImp</className>
+</config>
