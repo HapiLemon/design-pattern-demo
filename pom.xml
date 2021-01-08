@@ -18,6 +18,7 @@
         <module>07-adapter-pattern</module>
         <module>08-bridge-pattern</module>
         <module>09-composite-pattern</module>
+        <module>10-decorator-pattern</module>
     </modules>
 
     <dependencies>
