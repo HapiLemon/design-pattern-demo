@@ -1,0 +1,24 @@
+package com.example.pattern.decorator.book.decorator;
+
+import com.example.pattern.decorator.book.component.AbstractPerson;
+
+/**
+ * @author keminfeng
+ * @date 2022-02-09 15:35
+ */
+public class Canvas extends Finery {
+
+    public Canvas(AbstractPerson abstractPerson) {
+        super(abstractPerson);
+    }
+
+    @Override
+    public String show() {
+        return super.show() + " 穿了一双帆布鞋";
+    }
+
+    @Override
+    public Integer getFineryCount() {
+        return super.getFineryCount() + 1;
+    }
+}
