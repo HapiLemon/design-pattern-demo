@@ -17,6 +17,7 @@
         <module>06-decorator-pattern</module>
         <module>07-proxy-pattern</module>
         <module>08-factory-method-pattern</module>
+        <module>09-prototype-pattern</module>
     </modules>
 
 </project>
