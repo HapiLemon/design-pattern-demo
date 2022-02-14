@@ -15,6 +15,7 @@
     <modules>
         <module>02-strategy-pattern</module>
         <module>06-decorator-pattern</module>
+        <module>07-proxy-pattern</module>
     </modules>
 
 </project>
