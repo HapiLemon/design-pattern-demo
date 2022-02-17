@@ -19,6 +19,7 @@
         <module>08-factory-method-pattern</module>
         <module>09-prototype-pattern</module>
         <module>10-template-method-pattern</module>
+        <module>13-builder-pattern</module>
     </modules>
 
 </project>
