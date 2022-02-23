@@ -20,6 +20,7 @@
         <module>09-prototype-pattern</module>
         <module>10-template-method-pattern</module>
         <module>13-builder-pattern</module>
+        <module>14-observer-pattern</module>
     </modules>
 
 </project>
