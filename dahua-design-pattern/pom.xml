@@ -21,6 +21,7 @@
         <module>10-template-method-pattern</module>
         <module>13-builder-pattern</module>
         <module>14-observer-pattern</module>
+        <module>15-abstract-factory-pattern</module>
     </modules>
 
 </project>
