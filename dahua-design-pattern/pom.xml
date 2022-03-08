@@ -22,6 +22,7 @@
         <module>13-builder-pattern</module>
         <module>14-observer-pattern</module>
         <module>15-abstract-factory-pattern</module>
+        <module>16-states-pattern</module>
     </modules>
 
 </project>
