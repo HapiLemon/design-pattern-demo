@@ -23,6 +23,7 @@
         <module>14-observer-pattern</module>
         <module>15-abstract-factory-pattern</module>
         <module>16-states-pattern</module>
+        <module>20-iterator-pattern</module>
     </modules>
 
 </project>
