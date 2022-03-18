@@ -25,6 +25,7 @@
         <module>16-states-pattern</module>
         <module>20-iterator-pattern</module>
         <module>22-bridge-pattern</module>
+        <module>23-command-pattern</module>
     </modules>
 
 </project>
