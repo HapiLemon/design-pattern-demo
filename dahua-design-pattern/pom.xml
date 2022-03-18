@@ -24,6 +24,7 @@
         <module>15-abstract-factory-pattern</module>
         <module>16-states-pattern</module>
         <module>20-iterator-pattern</module>
+        <module>22-bridge-pattern</module>
     </modules>
 
 </project>
