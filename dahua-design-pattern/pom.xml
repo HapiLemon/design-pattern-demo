@@ -26,6 +26,7 @@
         <module>20-iterator-pattern</module>
         <module>22-bridge-pattern</module>
         <module>23-command-pattern</module>
+        <module>24-chain-of-responsibility-pattern</module>
     </modules>
 
 </project>
