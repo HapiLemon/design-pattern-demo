@@ -28,6 +28,7 @@
         <module>23-command-pattern</module>
         <module>24-chain-of-responsibility-pattern</module>
         <module>25-mediator-pattern</module>
+        <module>26-flyweight-pattern</module>
     </modules>
 
 </project>
