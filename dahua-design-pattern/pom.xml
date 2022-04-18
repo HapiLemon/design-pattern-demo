@@ -29,6 +29,7 @@
         <module>24-chain-of-responsibility-pattern</module>
         <module>25-mediator-pattern</module>
         <module>26-flyweight-pattern</module>
+        <module>27-interpret-pattern</module>
     </modules>
 
 </project>
